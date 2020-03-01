@@ -1,0 +1,13 @@
+POST http://127.0.0.1:8888/prospect/validate
+Content-Type: application/json
+
+{
+  "id": {"value": ""},
+  "name": {"value": "Qohat"},
+  "lastName": {"value": "Pretel"},
+  "documentType": {"value": "78383838"},
+  "document": {"value": "192882222"},
+  "issuingDate": {"value": "19-08-1995"}
+}
+
+###

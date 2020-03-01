@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/police-records"
+    },
+    "response": {
+        "status": 200,
+        "body": true
+    }
+}
