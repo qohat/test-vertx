@@ -1,4 +1,4 @@
-# Test ADDI with vert.x
+# Test with vert.x
 
 Project using `vert.x`, `http-stub wire-mock`.
 
